@@ -1,5 +1,4 @@
 <?php 
-
 	//page identifier
 	$pageName = 'home';
 
